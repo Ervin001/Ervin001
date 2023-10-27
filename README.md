@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ervin G
 - 👀 I’m interested in Programming 
-- 🌱 I’m currently learning JavaScript, and testing.
+- 🌱 I’m currently learning React and Node.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
